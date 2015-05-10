@@ -1,0 +1,72 @@
+PODS:
+  - AFNetworkActivityLogger (2.0.4):
+    - AFNetworking/NSURLConnection (~> 2.0)
+    - AFNetworking/NSURLSession (~> 2.0)
+  - AFNetworking (2.5.2):
+    - AFNetworking/NSURLConnection (= 2.5.2)
+    - AFNetworking/NSURLSession (= 2.5.2)
+    - AFNetworking/Reachability (= 2.5.2)
+    - AFNetworking/Security (= 2.5.2)
+    - AFNetworking/Serialization (= 2.5.2)
+    - AFNetworking/UIKit (= 2.5.2)
+  - AFNetworking/NSURLConnection (2.5.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.2)
+  - AFNetworking/Security (2.5.2)
+  - AFNetworking/Serialization (2.5.2)
+  - AFNetworking/UIKit (2.5.2):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - HexColors (2.2.1)
+  - HMSegmentedControl (1.5.1)
+  - Mantle (1.5.4):
+    - Mantle/extobjc (= 1.5.4)
+  - Mantle/extobjc (1.5.4)
+  - MBProgressHUD (0.9.1)
+  - MJRefresh (1.4.3)
+  - MZTimerLabel (0.5.1)
+  - RDVTabBarController (1.1.9)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - TSMessages (0.9.12):
+    - HexColors
+  - UMengAnalytics (3.4.6)
+  - WebViewJavascriptBridge (4.1.4)
+
+DEPENDENCIES:
+  - AFNetworkActivityLogger
+  - AFNetworking (~> 2.0)
+  - HMSegmentedControl
+  - Mantle
+  - MBProgressHUD (~> 0.8)
+  - MJRefresh
+  - MZTimerLabel
+  - RDVTabBarController
+  - SDWebImage
+  - TSMessages
+  - UMengAnalytics
+  - WebViewJavascriptBridge
+
+SPEC CHECKSUMS:
+  AFNetworkActivityLogger: 121486778117d53b3ab1c61d264b88081d0c3eee
+  AFNetworking: fefbce9660acb17f48ae0011292d4da0f457bf36
+  HexColors: abfd172e329dab59888614ccba6f216cec59289d
+  HMSegmentedControl: 35460abdd15c3087368db2d3d956717f088b34d1
+  Mantle: 60acd0cd363e27d945bda0a6b8e90577112d28f3
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJRefresh: 6eb09aefa9622f0908fdf42d63c2070478c04c42
+  MZTimerLabel: 455a5fa408c716823e331f8f3b345713ddeabd30
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  TSMessages: 2a52642128d7ab15b46930c810b9c9403a2b58f3
+  UMengAnalytics: 24c06f0ea07295d2f1c093f0fe12d196fd801ea4
+  WebViewJavascriptBridge: f10ac16f2cd3adf2b941bd79477c55a8f6e01044
+
+COCOAPODS: 0.35.0

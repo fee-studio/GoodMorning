@@ -1,0 +1,5 @@
+地址: https://github.com/HansPinckaers/GrowingTextView
+
+An UITextView which grows/shrinks with the text and starts scrolling when the content reaches a certain number of lines. Similar to the one Apple uses in the SMS-app.
+
+能自动加长的uitextview
